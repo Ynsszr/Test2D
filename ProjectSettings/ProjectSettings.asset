@@ -159,6 +159,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.DefaultCompany.Test2D
     Standalone: com.DefaultCompany.2DProject
+    iPhone: com.DefaultCompany.Test2D
   buildNumber:
     Standalone: 0
     iPhone: 0
